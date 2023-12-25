@@ -82,6 +82,8 @@
 - [ ] CQRS
   - [ ] MediatR and Mediator.SourceGenerator
 
+- [ ] Clean Architecture
+
 - [ ] Fluent Validation
 
 - [ ] Polly
