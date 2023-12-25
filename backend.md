@@ -37,8 +37,26 @@
   - [ ] Testcontainers for .NET
   - [ ] Respawn
 
+- [ ] Test-Driven Development
+
 - [ ] Performance Testing
   - [ ] k6
+
+- [ ] Profiling
+  - [ ] CPU Profiling (dotTrace/VisualStudio Performance Profiler)
+  - [ ] Memory Profiling (dotMemory/VisualStudio Performance Profiler)
+  - [ ] .NET Counters
+
+- [ ] Relational DataBases
+  - [ ] SQLServer
+  - [ ] Oracle
+  - [ ] Postgresql
+  - [ ] ...
+
+- [ ] NoSql Data Stores
+  - [ ] Redis
+  - [ ] Elasticsearch
+  - [ ] ...
 
 - [ ] Log Frameworks
   - [ ] Serilog
@@ -61,7 +79,8 @@
   - [ ] RabbitMQ
   - [ ] MassTransit
 
-- [ ] MediatR and Mediator.SourceGenerator
+- [ ] CQRS
+  - [ ] MediatR and Mediator.SourceGenerator
 
 - [ ] Fluent Validation
 
@@ -74,3 +93,6 @@
 - [ ] Actor Model
   - [ ] Virtual Actor Model
     - [ ] Orleans
+
+- [ ] CI Pipelines
+  - [ ] Azure Devops/GitHub Actions/GitLab CI/...
