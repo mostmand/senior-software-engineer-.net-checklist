@@ -1,0 +1,9 @@
+- [ ] HTML
+- [ ] CSS
+- [ ] JS
+- [ ] TypeScript
+- [ ] DOM
+- [ ] Angular
+- [ ] Unit Testing
+- [ ] Integration Testing
+- [ ] E2E Testing
